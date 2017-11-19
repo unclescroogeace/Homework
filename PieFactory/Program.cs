@@ -140,7 +140,6 @@ namespace PieFactory
             {
                 while (isWorking)
                 {
-
                     //Robot Joe fill the filling hopper
                     joe.FillHopper(hopperFilling, 250);
 
